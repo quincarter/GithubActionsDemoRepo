@@ -1,7 +1,7 @@
 # Github Actions Demo
 Demo with a NestJS Repo
-![Build Action](https://github.com/quincarter/Home-Media-Docker/actions/workflows/test-compose.yml/badge.svg)
-![Build Action](https://github.com/quincarter/Home-Media-Docker/actions/workflows/node.js.yml/badge.svg)
+![Build Action](https://github.com/quincarter/GithubActionsDemoRepo/actions/workflows/test-compose.yml/badge.svg)
+![Build Action](https://github.com/quincarter/GithubActionsDemoRepo/actions/workflows/node.js.yml/badge.svg)
 
 
 ## Description

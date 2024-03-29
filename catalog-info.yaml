@@ -4,6 +4,7 @@ metadata:
   name: GithubActionsDemoRepo
   annotations:
     github.com/project-slug: quincarter/GithubActionsDemoRepo
+    backstage.io/techdocs-ref: https://github.com/quincarter/GithubActionsDemoRepo/blob/main/README.md
 spec:
   type: other
   lifecycle: unknown

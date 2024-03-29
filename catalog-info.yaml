@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: GithubActionsDemoRepo
+  annotations:
+    github.com/project-slug: quincarter/GithubActionsDemoRepo
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
